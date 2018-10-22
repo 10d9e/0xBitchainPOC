@@ -1,3 +1,8 @@
+This is a Proof of Concept 0xBitcoin sidechain stack
+
+1. Install docker
+2. docker-compose up
+
 # Local Ethereum Network
 A set of Docker images to create a local Ethereum network with three nodes and a monitor. This was built to understand how local Ethereum networks have to be set up and to provide a local test environment. **Never use this in a productive environment, as the docker-compose.yml contains hardcoded passwords and private keys for convenience**
 
