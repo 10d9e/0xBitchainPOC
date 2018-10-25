@@ -49,7 +49,7 @@
     "env":
     {
       "NODE_ENV"    : "production",
-      "RPC_HOST"    : "172.25.0.110",
+      "RPC_HOST"    : "172.25.0.106",
       "RPC_PORT"    : "8545",
       "INSTANCE_NAME"   : "geth-dev-2",
       "WS_SERVER"     : "http://172.25.0.103:3000",
